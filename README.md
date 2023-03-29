@@ -13,13 +13,13 @@ I am an independent, self-motivated graduate who learns, explores, and uses my i
   
 <h3><img src ="https://media.giphy.com/media/faO3KVIlS2wevY6JBE/giphy.gif" width = 80px, height = 80px> Me Around the Web </h3>
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/nirmitshah02/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/nirmit.shah0207/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/NirmitS50841579">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
