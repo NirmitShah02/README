@@ -20,7 +20,8 @@ I am an independent, self-motivated graduate who learns, explores, and uses my i
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 	
-Python, Cyber Security, Ethical Hacking, ![Java](https://user-images.githubusercontent.com/83862159/228520518-c08f36ca-61a9-4f5a-bd0e-6d39e63af6e0.png width = 30px, height =30 px)Java, C/C++, HTML. </br>
+Python, Cyber Security, Ethical Hacking, 
+![Java](https://user-images.githubusercontent.com/83862159/228520518-c08f36ca-61a9-4f5a-bd0e-6d39e63af6e0.png) width = 30px, height =30px Java, C/C++, HTML. </br>
 Machine Learning, Deep Learning, Artificial Intelligence. </br>
 Git, Github. </br>
 Docker. </br>
