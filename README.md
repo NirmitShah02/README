@@ -5,7 +5,7 @@
 
 
   
-  ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+  ## <picture><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlkYzFhZmRkMTZiZTEzYTk5YzJkODRkNWIwZDViYzgwMmJhNWY2MyZjdD1z/d9AC9cKuNu165UxNtj/giphy.gif" width = 50px></picture> **About me**
 I am an independent, self-motivated graduate who learns, explores, and uses my interpersonal skills for the organization's exponential growth. If worked along the lines of programming can be the best source of bread and butter, which is my goal.
   
   
