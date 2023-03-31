@@ -12,34 +12,29 @@ I am an independent, self-motivated graduate who learns, explores, and uses my i
   
   
 <h3><img src ="https://media.giphy.com/media/faO3KVIlS2wevY6JBE/giphy.gif" width = 80px, height = 80px> Me Around the Web </h3>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/nirmitshah02/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.gmail.com/nirmit.shah0207@gmail.com/">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/NirmitS50841579">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-	
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FNirmitS50841579)
 
-	<p align="center">
+[![LinkTree - 0](https://img.shields.io/badge/LinkTree-FFFFFF?logo=Linktree)](https://linktr.ee/nirmitshah)
+![Gmail - nirmit.shah0207@gmail.com](https://img.shields.io/badge/Gmail-nirmit.shah0207%40gmail.com-blue?logo=Gmail)
 
  
  
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 	
-        	
-Python, Cyber Security, Ethical Hacking, Java, C/C++, HTML. </br>
-Machine Learning, Deep Learning, Artificial Intelligence. </br>
-Git, Github. </br>
-Docker. </br>
-JFrog. </br>
-Amazon Web Service, Azure, Google Cloud, Kubernates. </br>
+![Python - 0](https://img.shields.io/badge/Python-FFFFFF?logo=Python)
+![C - 0](https://img.shields.io/badge/C-blue?logo=C)
+![C++ - 0](https://img.shields.io/badge/C%2B%2B-blue?logo=C%2B%2B)
+![HTML - 0](https://img.shields.io/badge/HTML-FFFFFF?logo=html5)
+![Java - 0](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Amazon AWS -0](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Deep Learning - 0](https://img.shields.io/badge/Deep_Learning-808080?logo=Deep+Learning)
+![Artificial Intelligence - 0](https://img.shields.io/badge/Artificial_Intelligence-800000?logo=Artificial+Intelligence)
+![TensorFlow - 0](https://img.shields.io/badge/TensorFlow-blue?logo=TensorFlow)
+![Certified Ethical Hacker - 0](https://img.shields.io/badge/Certified_Ethical_Hacker-FFFFFF?logo=CEH)
+![CyberSecurity - 0](https://img.shields.io/badge/CyberSecurity-964B00?logo=CyberSecurity)
+![Docker - 0](https://img.shields.io/badge/Docker-FFFFFF?logo=Docker)
+![JFrog - 0](https://img.shields.io/badge/JFrog-000000?logo=JFrog)
+
 	
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
@@ -56,8 +51,8 @@ Amazon Web Service, Azure, Google Cloud, Kubernates. </br>
 <div>
   <p align="center">
 	</a>  
-	<a href=["https://github.com/NirmitShah02/NirmitShah"]>
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=NirmitShah02&repo=NirmitShah&theme=codeSTACKr" alt="GitHub Stats" />  
+	<a href=["https://github.com/NirmitShah02/README"]>
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=NirmitShah02&repo=README&theme=codeSTACKr" alt="GitHub Stats" />  
 	</a>	
 	<a href="[https://github.com/NirmitShah02/Plant-Disease-Detection]">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=NirmitShah02&repo=Plant-Disease-Detection&theme=codeSTACKr" alt="GitHub Stats" />
